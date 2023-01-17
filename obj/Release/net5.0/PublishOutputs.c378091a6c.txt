@@ -1,0 +1,5 @@
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\Desafio01\FizzBuzzLul.exe
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\Desafio01\FizzBuzzLul.dll
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\Desafio01\FizzBuzzLul.deps.json
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\Desafio01\FizzBuzzLul.runtimeconfig.json
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\Desafio01\FizzBuzzLul.pdb
